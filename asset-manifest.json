@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0ab36732.css",
+    "main.js": "/portfolio/static/js/main.f3740659.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/gym.mp4": "/portfolio/static/media/gym.6e26e00e94f0980a31e0.mp4",
+    "static/media/v1.mp4": "/portfolio/static/media/v1.821775afd7041de5919e.mp4",
+    "static/media/v2.mp4": "/portfolio/static/media/v2.104f5c4c137f4f1cde99.mp4",
+    "static/media/v4.mp4": "/portfolio/static/media/v4.005d290335ce9b9dc3b9.mp4",
+    "static/media/v5.mp4": "/portfolio/static/media/v5.fd33466e3a322c4db40a.mp4",
+    "static/media/Products.mp4": "/portfolio/static/media/Products.9878761ed6d50a9a0a21.mp4",
+    "static/media/food.png": "/portfolio/static/media/food.e0865039a8fa3fbfcc21.png",
+    "static/media/trip.png": "/portfolio/static/media/trip.1f42b9682e4ae9b9424d.png",
+    "static/media/ide.PNG": "/portfolio/static/media/ide.045efa3ccc18933c03e1.PNG",
+    "static/media/project-4.png": "/portfolio/static/media/project-4.492764fbea7982281560.png",
+    "static/media/project-2.png": "/portfolio/static/media/project-2.af3d9e95d47d473d31bf.png",
+    "static/media/project-5.png": "/portfolio/static/media/project-5.0b0424aa097d3757c21c.png",
+    "static/media/project-1.png": "/portfolio/static/media/project-1.14516e0de874a90abe30.png",
+    "static/media/we.PNG": "/portfolio/static/media/we.d830386517f317dbb59a.PNG",
+    "static/media/project-6.png": "/portfolio/static/media/project-6.b8594370c9940f070cf9.png",
+    "static/media/eze.png": "/portfolio/static/media/eze.79b48aae32ce2cf5bf27.png",
+    "static/media/project-3.png": "/portfolio/static/media/project-3.b47987dcbf9490f85cbc.png",
+    "static/media/D2.png": "/portfolio/static/media/D2.18789a8755f402060fba.png",
+    "static/media/GATARE Ezechiel CV.pdf": "/portfolio/static/media/GATARE Ezechiel CV.eb0f152994bd08dc418d.pdf",
+    "static/media/D1.png": "/portfolio/static/media/D1.466d98710ca06bc5861c.png",
+    "index.html": "/portfolio/index.html",
+    "main.0ab36732.css.map": "/portfolio/static/css/main.0ab36732.css.map",
+    "main.f3740659.js.map": "/portfolio/static/js/main.f3740659.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab36732.css",
+    "static/js/main.f3740659.js"
+  ]
+}
